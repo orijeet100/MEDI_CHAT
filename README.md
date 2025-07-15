@@ -1,8 +1,15 @@
-
-
 # 🏥 MED RAG: Medical Retrieval-Augmented Generation Chatbot
 
+
 A powerful, production-ready Streamlit app for medical question answering using Retrieval-Augmented Generation (RAG). MED RAG combines a local FAISS vector database, state-of-the-art embedding models, and a large language model (LLM) to provide accurate, context-aware answers to medical queries based on your own document collection.
+
+<a href="[https://your-destination-link.com]([https://www.linkedin.com/feed/update/urn:li:ugcPost:7345461036101124096](https://drive.google.com/file/d/1XmPW-JNnDnGE03FZORcl8-fQ1oZr_4zb/view?usp=drive_link)">
+  <img src="medi_chat_thumbnail.png" alt="Thumbnail" width="80%">
+</a>
+
+[View this video post](https://drive.google.com/file/d/1XmPW-JNnDnGE03FZORcl8-fQ1oZr_4zb/view?usp=drive_link)
+
+
 
 ---
 
