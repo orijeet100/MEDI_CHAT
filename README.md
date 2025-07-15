@@ -7,7 +7,7 @@ A powerful, production-ready Streamlit app for medical question answering using 
 ---
 
 
-**👉 Try it on Hugging Face Spaces, and use high CPU or  GPU for faster results[https://huggingface.co/spaces/orijeetmukherjee/MED_RAG](https://huggingface.co/spaces/orijeetmukherjee/MED_RAG)**
+**👉 Try it on Hugging Face Spaces, and use high CPU or  GPU for faster results: [https://huggingface.co/spaces/orijeetmukherjee/MED_RAG](https://huggingface.co/spaces/orijeetmukherjee/MED_RAG)**
 
 
 ## 🚀 Features
